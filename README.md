@@ -1,6 +1,6 @@
-# Less is More: Robust Caries RGB Images Learning with Core Data Selection
+# Core Inter-Category Contrastive Learning for Enhancing Robustness of Caries Classification
 
-This is the code for *Less is More: Robust Caries RGB Images Learning with Core Data Selection* submitted to ICASSP 2025. 
+This is the code for *Core Inter-Category Contrastive Learning for Enhancing Robustness of Caries Classification* submitted to ICME 2025. 
 
 ## Core Data Selection
 
