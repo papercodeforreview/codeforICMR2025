@@ -1,6 +1,6 @@
 # Core Inter-Category Contrastive Learning for Enhancing Robustness of Caries Classification
 
-This is the code for *Core Inter-Category Contrastive Learning for Enhancing Robustness of Caries Classification* submitted to ICME 2025. 
+This is the code for *Core Inter-Category Contrastive Learning for Enhancing Robustness of Caries Classification* submitted to ICMR 2025. 
 
 ## Core Data Selection
 
